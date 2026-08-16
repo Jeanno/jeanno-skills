@@ -14,3 +14,4 @@ npx skills add Jeanno/jeanno-skills
 - **`realign`** — Assumption diagnosis and rapid realignment when corrected or stopped.
 - **`pm`** — Two-phase project management workflow: grill/align first, then execute with agent teams.
 - **`scope`** — Scopes features, PRDs, and implementation boundaries.
+- **`qa-checklist`** — Fast manual verification checklists for visual, UI, and mobile changes.
