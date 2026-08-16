@@ -5,5 +5,6 @@ description: Use when the user wants a plan, proposal, or prioritization decisio
 
 # PM
 
-- **Phase 1 — Grill**: run /align
-- **Phase 2 — Execute**: spawn an agent team, coordinate, and ask the user for new decisions if needed while the team executes and implements.
+- **Phase 1 — Grill**: run `/align` to settle roadmap and strategy decisions.
+- **Phase 2 — Plan**: run `/steps` to draft concrete execution paths.
+- **Phase 3 — Execute**: spawn an agent team, coordinate work, and prompt user for new decisions only when blocked.
