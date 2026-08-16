@@ -18,3 +18,11 @@ npx skills add Jeanno/jeanno-skills
 - **`scope`** — Scopes features, PRDs, and implementation boundaries.
 - **`qa-checklist`** — Fast manual verification checklists for visual, UI, and mobile changes.
 - **`write-skill`** — Framework for authoring lean, composable pyramid skills.
+
+## Output styles
+
+Not auto-installed. Symlink into `~/.claude/output-styles/`, then switch on with
+`/output-style <name>`.
+
+- **`copilot`** — You drive. Terse output, evidence over opinion, writes stop for
+  approval. For hard problems where the agent's judgment shouldn't run unchecked.
