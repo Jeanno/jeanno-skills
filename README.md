@@ -17,3 +17,4 @@ npx skills add Jeanno/jeanno-skills
 - **`pm`** — Two-phase project management workflow: grill/align first, then execute with agent teams.
 - **`scope`** — Scopes features, PRDs, and implementation boundaries.
 - **`qa-checklist`** — Fast manual verification checklists for visual, UI, and mobile changes.
+- **`write-skill`** — Framework for authoring lean, composable pyramid skills.
