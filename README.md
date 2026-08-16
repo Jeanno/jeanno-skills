@@ -12,6 +12,7 @@ npx skills add Jeanno/jeanno-skills
 
 - **`align`** — Stress-test plans, decisions, or proposals before acting ("grill me").
 - **`realign`** — Assumption diagnosis and rapid realignment when corrected or stopped.
+- **`risk`** — Blast radius analysis, regression detection, and failure vector evaluation.
 - **`steps`** — Concrete, point-form step-by-step plans with exact file paths (no code changes).
 - **`pm`** — Two-phase project management workflow: grill/align first, then execute with agent teams.
 - **`scope`** — Scopes features, PRDs, and implementation boundaries.
