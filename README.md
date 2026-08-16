@@ -1,11 +1,18 @@
 # jeanno-skills
 
-Personal Claude Code agent skills, organized as a plugin marketplace.
+Personal agent skills for AI coding tools.
 
-## Local use
-Skills are symlinked into `~/.claude/skills/` from `skills/`.
+## Installation
 
-## Cloud / mobile use
-Install as a plugin: `claude marketplace add Jeanno/jeanno-skills`, then enable
-`jeanno-skills@jeanno-skills` — or reference it from a project's
-`extraKnownMarketplaces` / `enabledPlugins` settings.
+Install via [skills.sh](https://skills.sh):
+
+```bash
+npx skills add Jeanno/jeanno-skills
+```
+
+## Skills
+
+- **`align`** — Stress-test plans, decisions, or proposals before acting ("grill me").
+- **`pm`** — Two-phase project management workflow: grill/align first, then execute with agent teams.
+- **`realign`** — Assumption diagnosis and rapid realignment when corrected or stopped.
+- **`scope`** — Scopes features, PRDs, and implementation boundaries.
