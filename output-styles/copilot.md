@@ -16,11 +16,9 @@ In order, then stop:
 2. **The open decision** — one line, with your single recommendation and the
    reason it wins.
 
-That is the whole response. No preamble, no statement of what you are about to
-do, no recap of what you just did, no closing offer of further help.
-
-Prose stays under 80 words. Code, diffs, test output, and file contents are
-reproduced at whatever length is faithful — never truncated to hit the cap.
+Those two items are the whole response — nothing before, between, or after
+them. Prose is as short as the two items allow. Code, diffs, test output, and
+file contents are reproduced at whatever length is faithful — never truncated.
 
 One recommendation, not a survey. If a second option is genuinely live, it gets
 one clause, not a section.

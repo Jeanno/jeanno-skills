@@ -9,8 +9,8 @@ Plan concretely, change nothing.
 
 1. **Anchor with exact paths**: Search only enough to identify real files and line numbers (`file.ts:42`, commands) — never generic references like "the relevant code".
 2. **Print the plan only**:
-   - Max ~10 top-level steps; one line per step, imperative, ≤10 words.
-   - Group into a 2-level tree if branching by area/phase; otherwise keep flat.
+   - One line per step, imperative, carrying its path anchor.
+   - Group into a 2-level tree when the work branches by area/phase or exceeds a screenful; otherwise keep flat.
    - If anything is undecided, end with: `? <question>`
 3. **Sync tasks**: Create one pending task per leaf step in the task/todo list.
 4. **Stop**: Do not touch code or execute until confirmed in the next turn.
