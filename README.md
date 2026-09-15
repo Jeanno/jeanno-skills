@@ -15,6 +15,7 @@ npx skills add Jeanno/jeanno-skills
 - **`risk`** — Blast radius analysis, regression detection, and failure vector evaluation.
 - **`steps`** — Concrete, point-form step-by-step plans with exact file paths (no code changes).
 - **`handoff`** — Resumable brief for a fresh session: state, decisions, next step.
+- **`overview`** — Background, status, and next steps of the current task for someone with no context.
 - **`pm`** — Two-phase project management workflow: grill/align first, then execute with agent teams.
 - **`scope`** — Scopes features, PRDs, and implementation boundaries.
 - **`qa-checklist`** — Fast manual verification checklists for visual, UI, and mobile changes.
