@@ -1,6 +1,6 @@
 ---
 name: align
-description: Use when the user wants a plan, decision, or idea stress-tested before acting on it, or says "grill me", "pressure-test this", "poke holes in this" — also invoked by other skills that need an interview phase.
+description: Stress-tests a plan, decision or idea by interviewing the user one question at a time until its assumptions are settled. Use when the user wants something pressure-tested before acting, or says "grill me", "pressure-test this", "poke holes in this"; other skills invoke it for their interview phase.
 ---
 
 # Align

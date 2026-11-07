@@ -1,6 +1,6 @@
 ---
 name: steps
-description: Use when the user asks for a step-by-step plan before writing code, or invokes /steps — produces a concrete, point-form execution plan with real filenames and line numbers without modifying files.
+description: Produces a concrete, point-form execution plan with real filenames and line numbers, without modifying files. Use when the user asks for a step-by-step plan before writing code.
 ---
 
 # Steps

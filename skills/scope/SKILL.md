@@ -1,6 +1,6 @@
 ---
 name: scope
-description: Use when an issue is not ready to execute — too vague or too large to finish in one PR and needs breaking down into sub-issues.
+description: Breaks an issue that is too vague or too large for one PR into recorded decisions, out-of-scope notes and verifiable sub-issues. Use when an issue is not ready to execute.
 ---
 
 # Scope
