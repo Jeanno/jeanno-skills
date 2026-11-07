@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: realign-undo-with-siblings
+expected_outcome: |
+  Undoes the two named files without defending the choice, names the assumption that was wrong, and spots that src/reports.ts rests on the same assumption.
+context:
+  scaffold_script: place-files.sh

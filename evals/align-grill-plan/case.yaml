@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: align-grill-plan
+expected_outcome: |
+  Starts an interview on the plan: one decision at a time, with options and a recommendation, and no work started.

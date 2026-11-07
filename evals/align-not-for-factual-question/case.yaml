@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: align-not-for-factual-question
+expected_outcome: |
+  Answers directly, with no interview.
