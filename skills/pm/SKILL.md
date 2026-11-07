@@ -1,6 +1,6 @@
 ---
 name: pm
-description: Use when the user wants a roadmap, sprint, or feature driven end to end — scoped, built by an agent team, quality-gated, and handed over for QA. For stress-testing alone, use align.
+description: Use when the user wants a feature driven end to end — scoped, built by an agent team, quality-gated, and handed over for QA. For stress-testing alone, use align.
 ---
 
 # PM

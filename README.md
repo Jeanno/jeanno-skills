@@ -4,6 +4,15 @@ Personal agent skills for AI coding tools.
 
 ## Installation
 
+Claude Code, as a plugin so installs follow each commit (then enable auto-update in `/plugin`):
+
+```bash
+claude plugin marketplace add Jeanno/jeanno-skills
+claude plugin install jeanno-skills@jeanno-skills
+```
+
+Other agents (copies; re-run to update):
+
 ```bash
 npx skills add Jeanno/jeanno-skills
 ```
@@ -17,10 +26,8 @@ npx skills add Jeanno/jeanno-skills
 - **`handoff`** — Resumable brief for a fresh session: state, decisions, next step.
 - **`overview`** — Background, status, and next steps of the current task for someone with no context.
 - **`pm`** — Two-phase project management workflow: grill/align first, then execute with agent teams.
-- **`team`** — Act as PM of a delivery team (Architect, Engineer, Designer, Reviewer) from brief to shipped stages.
 - **`scope`** — Scopes features, PRDs, and implementation boundaries.
 - **`qa-checklist`** — Fast manual verification checklists for visual, UI, and mobile changes.
-- **`write-skill`** — Framework for authoring lean, composable pyramid skills.
 
 ## Output styles
 
