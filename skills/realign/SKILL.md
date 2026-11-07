@@ -1,6 +1,6 @@
 ---
 name: realign
-description: Use when the user stops, interrupts, or corrects you — "stop", "no", "that's not what I wanted", "undo that", "why did you do that", or a second correction on the same topic. Applies after any rejection of your plan, edit, or direction, before you resume work.
+description: Recovers from a correction — complies, names the broken assumption, sweeps for siblings and resumes. Use when the user stops, interrupts or corrects Claude ("stop", "no", "that's not what I wanted", "undo that", "why did you do that", or a second correction on the same topic), before resuming work.
 ---
 
 # Realign

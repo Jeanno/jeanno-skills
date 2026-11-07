@@ -1,6 +1,6 @@
 ---
 name: risk
-description: Use when assessing risk, blast radius, breaking changes, regressions, or rollback vectors for a proposed change, refactor, or migration.
+description: Assesses blast radius, failure vectors, breaking changes, regressions and rollback paths for a change. Use when assessing risk for a proposed change, refactor or migration.
 ---
 
 # Risk

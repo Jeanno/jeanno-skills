@@ -1,6 +1,6 @@
 ---
 name: handoff
-description: Use when the user wants to pause and continue in a fresh session, or says "handoff", "hand this off", "wrap up for next session" — writes a resumable brief, not a transcript summary.
+description: Writes a resumable brief (state, decisions, next step) for a fresh session, not a transcript summary. Use when the user wants to pause and continue later, or says "handoff", "hand this off", "wrap up for next session".
 argument-hint: "What will the next session focus on?"
 disable-model-invocation: true
 ---

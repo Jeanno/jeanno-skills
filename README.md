@@ -4,18 +4,14 @@ Personal agent skills for AI coding tools.
 
 ## Installation
 
-Claude Code, as a plugin so installs follow each commit (then enable auto-update in `/plugin`):
+Install as a Claude Code plugin, then enable auto-update in `/plugin`:
 
 ```bash
 claude plugin marketplace add Jeanno/jeanno-skills
 claude plugin install jeanno-skills@jeanno-skills
 ```
 
-Other agents (copies; re-run to update):
-
-```bash
-npx skills add Jeanno/jeanno-skills
-```
+Skills are invoked as `/jeanno-skills:<name>`.
 
 ## Skills
 

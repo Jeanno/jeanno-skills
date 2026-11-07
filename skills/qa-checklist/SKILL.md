@@ -1,6 +1,6 @@
 ---
 name: qa-checklist
-description: Use when completing visual, UI, animation, or mobile (iOS/Android) changes that require manual testing, or when creating a verification checklist for the user.
+description: Turns a visual, UI, animation or mobile (iOS/Android) change into a short manual test checklist, informed by a risk pass. Use when finishing such a change or when the user asks for a verification checklist.
 ---
 
 # QA Checklist
