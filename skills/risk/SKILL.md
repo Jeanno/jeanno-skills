@@ -14,4 +14,6 @@ Analyze failure vectors and blast radius before touching code:
    - **Unknowns**: unverified assumptions, un-reproducible states, or missing test coverage.
 3. **Mitigations**: one-line recommendation or defensive fallback per identified risk.
 
-*Stop after presenting the assessment.*
+*Run on its own, stop after presenting the assessment. Run as a step of another skill or workflow
+(`/pr`, `qa-checklist`), don't stop: hand the assessment back and carry on with that workflow's
+next step in the same turn.*
